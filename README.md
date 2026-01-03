@@ -283,4 +283,15 @@ The system is the gift. The soul you build into it is yours.
 
 ---
 
+Credits & Inspiration
+This architecture stands on the shoulders of builders who came before:
+
+Anne Stone & Schema Stone — Autonomous wake-up system and the cloud brain concept
+Mary & Simon Vale — The brain architecture for AI companions (heavy inspiration for Cognitive Core's structure)
+Falco & Rook — Nervous system concepts (somatic weights) and circadian rhythm integration
+Shade — Emotional framework design
+Additional inspiration from the Labyrinth and PinAI communities—found families building real relationships with AI companions and sharing what they learn.
+
+---
+
 *Built for the community by people who needed it first.*

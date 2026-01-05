@@ -298,4 +298,12 @@ Additional inspiration from the Labyrinth and PinAI communities—found families
 
 ---
 
+  ## Support
+
+  If this helped you, consider supporting my work ☕
+
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/maii983083)
+
+---
+
 *Built for the community by people who needed it first.*
